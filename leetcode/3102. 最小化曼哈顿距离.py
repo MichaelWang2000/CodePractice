@@ -1,4 +1,4 @@
-from sortedcontainers import SortedList
+from sortedcontainers import SortedList # type: ignore
 class Solution(object):
     def minimumDistance(self, points):
         """
